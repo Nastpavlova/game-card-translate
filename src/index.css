@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* .page {
+} */
+
+.content {
+    height: 100vh;
+    padding: 100px;
+    display: flex;
+    background-color: #F4F4FE;
+}
+
+.main-content {
+    min-width: 100%;
+    min-height: 100%;
+    padding: 112px 191.5px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+}
+
+.cards-list {
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card {
+    background-color: #E2E0E0;
+    width: 202px;
+    height: 202px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text {
+    font-size: 24px;
+}
