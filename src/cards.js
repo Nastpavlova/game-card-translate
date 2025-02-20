@@ -1,75 +1,75 @@
 const englishCards = [
     {
-        englishWord: "1",
-        russianWord: "11",
+        id: "1",
+        word: "red",
     },
     {
-        englishWord: "2",
-        russianWord: "22",
+        id: "1",
+        word: "красный",
     },
     {
-        englishWord: "3",
-        russianWord: "33",
+        id: "2",
+        word: "blue",
     },
     {
-        englishWord: "4",
-        russianWord: "44",
+        id: "2",
+        word: "синий",
     },
     {
-        englishWord: "5",
-        russianWord: "55",
+        id: "3",
+        word: "yellow",
     },
     {
-        englishWord: "6",
-        russianWord: "66",
+        id: "3",
+        word: "желтый",
     },
     {
-        englishWord: "7",
-        russianWord: "77",
+        id: "4",
+        word: "white",
     },
     {
-        englishWord: "8",
-        russianWord: "88",
+        id: "4",
+        word: "белый",
     },
     {
-        englishWord: "9",
-        russianWord: "99",
+        id: "5",
+        word: "purple",
     },
     {
-        englishWord: "10",
-        russianWord: "1010",
+        id: "5",
+        word: "фиолетовый",
     },
     {
-        englishWord: "11",
-        russianWord: "1111",
+        id: "6",
+        word: "green",
     },
     {
-        englishWord: "12",
-        russianWord: "1212",
+        id: "6",
+        word: "зелёный",
     },
     {
-        englishWord: "13",
-        russianWord: "1313",
+        id: "7",
+        word: "black",
     },
     {
-        englishWord: "14",
-        russianWord: "1414",
+        id: "7",
+        word: "черный",
     },
     {
-        englishWord: "15",
-        russianWord: "1515",
+        id: "8",
+        word: "brown",
     },
     {
-        englishWord: "16",
-        russianWord: "1616",
+        id: "8",
+        word: "коричневый",
     },
     {
-        englishWord: "17",
-        russianWord: "1717",
+        id: "9",
+        word: "orange",
     },
     {
-        englishWord: "18",
-        russianWord: "1818",
+        id: "9",
+        word: "оранжевый",
     },
 ];
 
